@@ -1,6 +1,7 @@
 __pycache__/
 .cache/
 .vscode/
+venv/
 .coverage
 .python-version
 coverage.xml
